@@ -107,10 +107,14 @@
                         <viewLayoutGuide key="safeArea" id="kPg-ll-q33"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="7Wo-fs-ngy" firstAttribute="centerX" secondItem="lhr-sb-xmD" secondAttribute="centerX" id="6gP-vu-AKD"/>
                             <constraint firstItem="kPg-ll-q33" firstAttribute="bottom" secondItem="7Wo-fs-ngy" secondAttribute="bottom" constant="301" id="CfF-Fd-DDy"/>
                             <constraint firstItem="7Wo-fs-ngy" firstAttribute="leading" secondItem="kPg-ll-q33" secondAttribute="leading" constant="87" id="EgK-hB-anM"/>
+                            <constraint firstItem="7Wo-fs-ngy" firstAttribute="centerX" secondItem="kPg-ll-q33" secondAttribute="centerX" id="JiW-Uv-Kx5"/>
                             <constraint firstItem="7Wo-fs-ngy" firstAttribute="top" secondItem="kPg-ll-q33" secondAttribute="top" constant="99" id="RDz-Xw-3qe"/>
+                            <constraint firstItem="7Wo-fs-ngy" firstAttribute="centerY" secondItem="lhr-sb-xmD" secondAttribute="centerY" id="VEj-MG-4V9"/>
                             <constraint firstItem="kPg-ll-q33" firstAttribute="trailing" secondItem="7Wo-fs-ngy" secondAttribute="trailing" constant="87" id="YKr-md-jGW"/>
+                            <constraint firstItem="7Wo-fs-ngy" firstAttribute="centerY" secondItem="kPg-ll-q33" secondAttribute="centerY" id="r2z-qp-khN"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="6YB-nk-pzF"/>
